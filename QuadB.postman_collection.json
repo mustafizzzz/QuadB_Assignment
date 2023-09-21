@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "608842ec-46f0-4663-a2fa-942392bdf2bc",
+		"name": "QuadB",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27744086"
+	},
+	"item": [
+		{
+			"name": "CheckPostAtlas",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "dataCheck",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "getThe10",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
